@@ -17,24 +17,28 @@
 # Download
 ## Male Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/male.jpg)
+Amount:50000 pics | Size:74.58GB<br />
 Download Link：[https://pan.baidu.com/s/1FiE2yR3U74-ZTsOWqwFs_Q](https://pan.baidu.com/s/1FiE2yR3U74-ZTsOWqwFs_Q)<br />
 Code：njci<br />
 
 ## &emsp;
 ## Female Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/female.jpg)
+Amount:50000 pics | Size:74.62GB<br />
 Download Link：[https://pan.baidu.com/s/1XJSFR3syQaoHpQeJE-6aig](https://pan.baidu.com/s/1XJSFR3syQaoHpQeJE-6aig) <br />
 Code：ng9b<br />
 
 ## &emsp;
 ## Kids Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/kids.jpg)
+Amount:10000 pics | Size:14.62GB<br />
 Download Link：[https://pan.baidu.com/s/1ya-wcfOrkKYiRJdOKHiBzQ](https://pan.baidu.com/s/1ya-wcfOrkKYiRJdOKHiBzQ) <br />
 Code：zl4j<br />
 
 ## &emsp;
 ## Adults Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/adults.jpg)
+Amount:10000 pics | Size:14.84GB<br />
 Download Link：[https://pan.baidu.com/s/1JhsYVtd3o8SM4zeNokv-zA](https://pan.baidu.com/s/1JhsYVtd3o8SM4zeNokv-zA) <br />
 Code：wa33<br />
 
@@ -47,16 +51,18 @@ Code：33h2<br />
 ## &emsp;
 ## Wearing Glasses Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/glasses.jpg)
+Amount:50000 pics | Size:75.65GB<br />
 Download Link：[https://pan.baidu.com/s/1VOYFs8Hbv76IHmPHKifXUg](https://pan.baidu.com/s/1VOYFs8Hbv76IHmPHKifXUg) <br />
 Code：61n6<br />
 
 ## &emsp;
 ## Smiling Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/smile.jpg)
+Amount:50000 pics | Size:74.84GB<br />
 Download Link：[https://pan.baidu.com/s/1Al6ULqDx4080gouJz9zdcQ](https://pan.baidu.com/s/1Al6ULqDx4080gouJz9zdcQ) <br />
 Code：rodk<br />
 
-## Special Batches
+## Special Customized Batches
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/uncle.jpg)<br /><br />
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/boys.jpg)<br /><br />
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/smile-girls.jpg)<br /><br />
