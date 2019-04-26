@@ -46,6 +46,7 @@ Code：wa33<br />
 ## Elders Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/elders.jpg)
 Download Link：[https://pan.baidu.com/s/11VxRccfp6rjVVLGkRTyHjw](https://pan.baidu.com/s/11VxRccfp6rjVVLGkRTyHjw) <br />
+Amount:10000 pics | Size:15.18GB<br />
 Code：33h2<br />
 
 ## &emsp;
