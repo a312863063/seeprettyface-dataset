@@ -3,8 +3,6 @@
 <br />
 &emsp;&emsp;You can download and research it to do whatever you want, but don't use it for commercial or improper purposes.<br />
 <br />
-&emsp;&emsp;By the way, if you are about to use the dataset in open source code, please add the following statement:<br />
-&emsp;&emsp;<code># Thanks to dataset provider:Copyright(c) 2018, seeprettyface.com, BUPT_GWY contributes the dataset.</code><br />
 
 &emsp;&emsp;Let's see how's the dataset look like.
 
