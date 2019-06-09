@@ -3,7 +3,7 @@
 <br />
 &emsp;&emsp;您可以任意下载使用，但切勿用作商业及不正当用途<br />
 <br />
-&emsp;&emsp;完整数据集下载地址：[www.seeprettyface.com/mydataset.html](http://www.seeprettyface.com/mydataset.html)<br />
+&emsp;&emsp;浏览更多数据集请访问：[www.seeprettyface.com/mydataset.html](http://www.seeprettyface.com/mydataset.html)<br />
 <br />
 
 # Sample
