@@ -27,6 +27,13 @@ Download Link：[https://pan.baidu.com/s/1XJSFR3syQaoHpQeJE-6aig](https://pan.ba
 Code：ng9b<br />
 
 ## &emsp;
+## Yellow Race Dataset
+![Image text](https://github.com/a312863063/seeprettyface/blob/master/yellow.jpg)
+Amount:50000 pics | Size:71.79GB<br />
+Download Link：[https://pan.baidu.com/s/1LxBIoP6mJobC1tAanir3wQ](https://pan.baidu.com/s/1LxBIoP6mJobC1tAanir3wQ) <br />
+Code：w86x<br />
+
+## &emsp;
 ## Kids Face Dataset
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/kids.jpg)
 Amount:10000 pics | Size:14.62GB<br />
