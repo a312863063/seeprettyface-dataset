@@ -1,5 +1,5 @@
 # Face Dataset
-&emsp;&emsp;Here is a series of customized face datasets generated with [StyleGAN](https://github.com/NVlabs/stylegan). All images are 1024*1024 HD generated images, and each image is unique. Currently contains: male/female/yellow/child/adult/elderly/glasses and smiling face datasets<br />, and additionally 3 special face datasets：chinese internet-celebrity-girls，chinese pop stars and world supermodels.
+&emsp;&emsp;Here are a series of customized face datasets generated with [StyleGAN](https://github.com/NVlabs/stylegan). All images are 1024*1024 HD generated images, and each image is unique. Currently contains: male/female/yellow/child/adult/elderly/glasses and smiling face datasets<br />, and additionally 3 special face datasets：chinese internet-celebrity-girls，chinese pop stars and world supermodels.
 <br /><br />
 &emsp;&emsp;You can download and use it at will, but do not use it for commercial or improper purposes.<br />
 <br />
